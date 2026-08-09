@@ -18,4 +18,5 @@
 - **CSS3** (стили, анимации)
 - **React Icons** (иконки)
 
+![alt text]([https://raw.githubusercontent.com/username/projectname/commit/img.png](https://avatars.mds.yandex.net/i?id=6d904867172577b55ab4ab2d1a503c88_l-10769069-images-thumbs&n=13))
 

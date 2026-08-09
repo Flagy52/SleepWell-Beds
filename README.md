@@ -1,4 +1,4 @@
-# 🛏️ SleepWell Beds - Каталог мебели
+<img width="1332" height="850" alt="image" src="https://github.com/user-attachments/assets/e346d4a8-d48a-420b-a464-99913966b644" /># 🛏️ SleepWell Beds - Каталог мебели
 
 Интернет-витрина с каталогом кроватей, фильтрацией по стилям, корзиной и модальным окном для просмотра деталей товара.
 
@@ -18,5 +18,5 @@
 - **CSS3** (стили, анимации)
 - **React Icons** (иконки)
 
-![alt text]([https://raw.githubusercontent.com/username/projectname/commit/img.png](https://avatars.mds.yandex.net/i?id=6d904867172577b55ab4ab2d1a503c88_l-10769069-images-thumbs&n=13))
+![alt text](https://img.goodfon.ru/wallpaper/nbig/c/c9/enot-vzgliad-voda-pogruzhenie-morda.webp)
 

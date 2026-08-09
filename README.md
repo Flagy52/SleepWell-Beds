@@ -1,4 +1,4 @@
-<img width="1332" height="850" alt="image" src="https://github.com/user-attachments/assets/e346d4a8-d48a-420b-a464-99913966b644" /># 🛏️ SleepWell Beds - Каталог мебели
+# 🛏️ SleepWell Beds - Каталог мебели
 
 Интернет-витрина с каталогом кроватей, фильтрацией по стилям, корзиной и модальным окном для просмотра деталей товара.
 
